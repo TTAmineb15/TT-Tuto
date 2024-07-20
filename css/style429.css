@@ -1,0 +1,158 @@
+.mediaViewInfo {
+	--web-view-name: Error429;
+	--web-view-id: Error429;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+:root {
+	--web-view-ids: Error429;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Error429 {
+	position: absolute;
+	width: 1664px;
+	height: 1158px;
+	font-family: arial; times;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Error429;
+	--web-view-id: Error429;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-show-by-media-query: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: arial; times;
+}
+#thumbnail_t_me-termin_tracker_ {
+	position: absolute;
+	width: 311px;
+	height: 248px;
+	left: 685px;
+	top: 309px;
+	overflow: visible;
+}
+#httpstmetermin_tracker_chat {
+	left: 585px;
+	top: 275px;
+	position: absolute;
+	overflow: visible;
+	width: 512px;
+	height: 39px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(43,80,227,1);
+}
+#Groupe_52 {
+	position: absolute;
+	width: 841px;
+	height: 238px;
+	left: 420px;
+	top: 30px;
+	overflow: visible;
+}
+#Termin_Tracker_Hunter__Rsoluti {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 840px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Times New Roman, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(230,30,57,1);
+}
+#Visiter_le_groupe_telegram {
+	left: 9px;
+	top: 188px;
+	position: absolute;
+	overflow: visible;
+	width: 384px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Ligne_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ligne_8 {
+	overflow: visible;
+	position: absolute;
+	width: 832.238px;
+	height: 1px;
+	left: 7.616px;
+	top: 163.852px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#___ {
+	left: 437px;
+	top: 181px;
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	height: 57px;
+	text-align: right;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#httpswwwtermin-tracker-allcom {
+	left: 650px;
+	top: 1111px;
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 36px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_18 {
+	fill: transparent;
+	stroke: rgba(242,0,0,1);
+	stroke-width: 7px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1111px;
+	height: 502px;
+	left: 285px;
+	top: 586px;
+}
