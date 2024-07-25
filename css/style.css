@@ -1,6 +1,6 @@
 .mediaViewInfo {
-	--web-view-name: Mode instal;
-	--web-view-id: Mode_instal;
+	--web-view-name: Hunter2-2;
+	--web-view-id: Hunter2-2;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-double-click: true;
@@ -10,7 +10,7 @@
 	--web-page-font: arial; times;
 }
 :root {
-	--web-view-ids: Mode_instal;
+	--web-view-ids: Hunter2-2;
 }
 * {
 	margin: 0;
@@ -18,15 +18,15 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Mode_instal {
+#Hunter2-2 {
 	position: absolute;
 	width: 1664px;
-	height: 1158px;
+	height: 1829px;
 	font-family: arial; times;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Mode instal;
-	--web-view-id: Mode_instal;
+	--web-view-name: Hunter2-2;
+	--web-view-id: Hunter2-2;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-double-click: true;
@@ -139,20 +139,72 @@
 	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
-#Rectangle_18 {
-	fill: transparent;
-	stroke: rgba(242,0,0,1);
-	stroke-width: 7px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_18 {
+#httpswwwtermin-tracker-allcom_s {
+	left: 650px;
+	top: 1776px;
 	position: absolute;
 	overflow: visible;
-	width: 1111px;
-	height: 502px;
-	left: 285px;
-	top: 586px;
+	width: 382px;
+	height: 36px;
+	text-align: center;
+	font-family: Segoe UI, arial; times;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_18, .Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 1111px;
+    height: 502px;
+    border: none;
+    display: flex;
+    justify-content: center; /* Center the video horizontally */
+    align-items: center;     /* Center the video vertically */
+}
+
+.Rectangle_18 {
+    left: 285px;
+    top: 586px;
+}
+
+.Rectangle_19 {
+    left: 285px;
+    top: 1140px; /* Adjusted to ensure space between the videos */
+}
+
+
+/* Media queries pour différents écrans */
+@media (max-width: 1200px) {
+    #Termin_Tracker_Hunter_22B_Mtho {
+        font-size: 2.5vw;
+    }
+    #Visiter_le_groupe_telegram {
+        font-size: 2vw;
+    }
+}
+
+@media (max-width: 768px) {
+    #Termin_Tracker_Hunter_22B_Mtho {
+        font-size: 2vw;
+    }
+    #Visiter_le_groupe_telegram {
+        font-size: 1.5vw;
+    }
+    .Rectangle_18, .Rectangle_19 {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    #Termin_Tracker_Hunter_22B_Mtho {
+        font-size: 4vw;
+    }
+    #Visiter_le_groupe_telegram {
+        font-size: 3vw;
+    }
+    .Rectangle_18, .Rectangle_19 {
+        width: 95%;
+    }
 }
